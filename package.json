@@ -1,8 +1,9 @@
 {
   "name": "hedberg",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Quotes by Mitch Hedberg.",
   "main": "index.js",
+  "readme": "README.md",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
