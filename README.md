@@ -3,6 +3,11 @@ A simple library to bring Mitch Hedberg jokes to your JavaScript projects.
 
 ## usage
 
+### install
+```
+npm install hedberg
+```
+
 ### require
 ```javascript
 var mitch = require('hedberg');
