@@ -1,6 +1,6 @@
 {
   "name": "hedberg",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quotes by Mitch Hedberg.",
   "main": "index.js",
   "scripts": {
