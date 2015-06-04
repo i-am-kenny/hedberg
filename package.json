@@ -1,0 +1,11 @@
+{
+  "name": "hedberg",
+  "version": "1.0.0",
+  "description": "Quotes by Mitch Hedberg.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kenny McGarvey",
+  "license": "ISC"
+}
